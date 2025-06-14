@@ -4,7 +4,7 @@
     "protocol": "vless",
     "settings": {
       "clients": [
-        { "id": "YOUR-UUID-HERE", "flow": "" }
+        { "id": "8f627f90-3418-44d5-8123-f0a7b8623022", "flow": "" }
       ],
       "decryption": "none"
     },
